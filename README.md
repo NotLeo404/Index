@@ -1,2 +1,2 @@
 # Index
-This is myu first repositiory !
+This is my first repositiory !
