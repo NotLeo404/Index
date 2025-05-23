@@ -1,4 +1,4 @@
 # Index
-This is Leo's repositiory !
+This is my first repositiory !
 <br>
 Author - NotLeo404
